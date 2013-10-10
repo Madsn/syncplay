@@ -1,0 +1,25 @@
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\bin\Debug\MediaSampleWPF.exe
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\bin\Debug\MediaSampleWPF.pdb
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\ResolveAssemblyReference.cache
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\Window1.baml
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\Window1.g.cs
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\App.g.cs
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF_MarkupCompile.cache
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF.g.resources
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF.Properties.Resources.resources
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF.csproj.GenerateResource.Cache
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF.exe
+E:\D Patra\My Programs\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF.pdb
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF.csprojResolveAssemblyReference.cache
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\Window1.baml
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\Window1.g.cs
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\App.g.cs
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\MediaSampleWPF.csproj.GenerateResource.Cache
+C:\repo\MediaSampleWPF\MediaSampleWPF\bin\Debug\SyncPlayer.exe.config
+C:\repo\MediaSampleWPF\MediaSampleWPF\bin\Debug\SyncPlayer.exe
+C:\repo\MediaSampleWPF\MediaSampleWPF\bin\Debug\SyncPlayer.pdb
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\SyncPlayer_MarkupCompile.cache
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\SyncPlayer.g.resources
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\SyncPlayer.Properties.Resources.resources
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\SyncPlayer.exe
+C:\repo\MediaSampleWPF\MediaSampleWPF\obj\Debug\SyncPlayer.pdb

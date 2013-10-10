@@ -1,0 +1,12 @@
+C:\repo\SyncPlay\SyncPlayClient\bin\Release\SyncPlayer.exe.config
+C:\repo\SyncPlay\SyncPlayClient\bin\Release\SyncPlayer.exe
+C:\repo\SyncPlay\SyncPlayClient\bin\Release\SyncPlayer.pdb
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\Window1.baml
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\Window1.g.cs
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\App.g.cs
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\SyncPlayer_MarkupCompile.cache
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\SyncPlayer.g.resources
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\SyncPlayer.Properties.Resources.resources
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\SyncPlayClient.csproj.GenerateResource.Cache
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\SyncPlayer.exe
+C:\repo\SyncPlay\SyncPlayClient\obj\Release\SyncPlayer.pdb
